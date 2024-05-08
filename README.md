@@ -4,7 +4,7 @@ I am currently learning frontend languages such as HTML, CSS, and JavaScript and
 
 ## Current Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,sass,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js)](https://skillicons.dev)
 
 ## GitHub Stats
 
